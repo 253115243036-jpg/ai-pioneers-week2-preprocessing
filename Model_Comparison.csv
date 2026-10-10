@@ -1,0 +1,3 @@
+Model,MAE,R2_Score
+Linear Regression,2.499999999999993,0.9900746465847536
+Decision Tree Regression,8.75,0.8993055555555556
